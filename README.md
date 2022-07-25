@@ -16,5 +16,4 @@ If you get hit by a vehicle, your cookie will return from the sidewalk and will 
 ### Game instructions: Using the arrow keys, move the character until you reach the other side of the road.</br>
  
 :arrow_up_small::arrow_down_small::arrow_forward::arrow_backward:</br>
-Divirta-se - 
-Enjoy
+## Divirta-se - Enjoy
