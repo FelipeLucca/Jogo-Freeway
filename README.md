@@ -8,3 +8,13 @@ Caso seja atingido por um veículo, seu biscoito irá recomeçar na calçada e p
 In FreeWay game your goal is to cross a hustling highway as many times as you can with your cookie. 
 If you get hit by a vehicle, your cookie will return from the sidewalk and will lose points.
 
+# https://editor.p5js.org/phill_95/full/XZhb77S0u
+
+
+### Instrução de jogo: Utilizando as setas do teclado movimente o personagem até chegar ao outro lado da rodovia.
+
+### Game instructions: Using the arrow keys, move the character until you reach the other side of the road.</br>
+ 
+:arrow_up_small::arrow_down_small::arrow_forward::arrow_backward:</br>
+Divirta-se - 
+Enjoy
